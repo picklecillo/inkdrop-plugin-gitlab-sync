@@ -1,6 +1,9 @@
 # README
 
-Export notes as Markdown to a Gitlab repository.
+Push notes as Markdown files to a Gitlab repository.
+
+WIP docs [here](https://picklecillo.gitlab.io/inkdrop-plugin.html)
+
 
 ## Setup
 
