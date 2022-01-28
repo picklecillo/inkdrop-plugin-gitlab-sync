@@ -1,7 +1,7 @@
 {
   "name": "gitlab-sync",
   "main": "./lib/gitlab-sync",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Sync notes to Gitlab repo",
   "keywords": [
     "gitlab"
