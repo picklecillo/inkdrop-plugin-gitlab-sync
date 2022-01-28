@@ -1,0 +1,20 @@
+{
+  "name": "gitlab-sync",
+  "main": "./lib/gitlab-sync",
+  "version": "0.1.0",
+  "description": "Sync notes to Gitlab repo",
+  "keywords": [
+    "gitlab"
+  ],
+  "repository": "https://github.com/picklecillo/inkdrop-plugin-gitlab-sync",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}

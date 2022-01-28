@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Gitlab Sync",
+          "submenu": [
+            {
+              "label": "Commit to Gitlab",
+              "command": "gitlab-sync:commit"
+            },
+            {
+              "label": "Remove from Gitlab",
+              "command": "gitlab-sync:remove"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
